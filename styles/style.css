@@ -16,31 +16,31 @@
     height: 100%;
 }
 
-.header-introduction{
+.header-introduction {
     text-align: left;
     padding: 300px 80px 160px 835px;
 }
 
 
 
-.title{
+.title {
     color: #FFFFFF;
     font-weight: 700;
     font-size: 55px;
     margin-bottom: 15px;
 }
 
-.description{
+.description {
     color: #c0bebe;
     font-weight: 200;
     font-size: 15px;
     margin-bottom: 25px;
 }
 
-.btn-primary{
+.btn-primary {
     font-weight: 400;
     font-size: 20px;
-    padding:20px 25px ;
+    padding: 20px 25px;
     border: 0;
     border-radius: 5px;
     color: #005FAC;
@@ -50,34 +50,96 @@
 /* Main Section */
 
 
-.my-failures{
+.my-failures {
     display: flex;
     align-items: center;
     gap: 70px;
     margin: 60px 170px;
     padding: 20px 35px;
 }
-.failure-image img{
+
+.failure-image img {
     height: 600px;
     width: 500px;
 }
 
-.section-title{
+.section-title {
     font-weight: 700;
     font-size: 40px;
+    color: #0c0c0c;
     margin-bottom: 25px;
 }
 
-.section-description{
-    color: #797373; 
+.section-description {
+    color: #797373;
     font-size: 16px;
     margin-bottom: 25px;
 
 }
 
-.failure-main-point{
-    color: #797373; 
+.failure-main-point {
+    color: #797373;
     font-size: 16px;
     margin: 10px 15px 0 0;
 
 }
+
+/* My Plans Section */
+.plan img {
+    height: 40%;
+    padding-left: 35px;
+
+
+}
+
+.plans-title {
+    text-align: center;
+    color: #0c0c0c;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+/* My Plans Section */
+.plans {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+
+}
+
+.plans-sub-title {
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+
+.plans-description {
+    color: #797373;
+    text-align: center;
+}
+
+/* Watch Section */
+
+
+.watch-section {
+    background-image: url("/images/gradient1.png"), url("/images/watch.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 70px 200px;
+    padding: 45px 300px 40px 40px;
+
+}
+
+.watch-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 15px;
+
+}
+
+
+/* footer Section */
