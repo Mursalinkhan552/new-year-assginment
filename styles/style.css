@@ -124,7 +124,7 @@
 
 
 .watch-section {
-    background-image: url("/images/gradient1.png"), url("/images/watch.png");
+    background-image: url("../images/gradient1.png"), url("../images/watch.png");
     background-repeat: no-repeat;
     background-size: 100%;
     margin: 70px 200px;
