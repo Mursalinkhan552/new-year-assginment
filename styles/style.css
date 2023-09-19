@@ -100,7 +100,7 @@
 
 }
 
-/* My Plans Section */
+/* My Plans Section Start*/
 .plans {
     display: flex;
     justify-content: space-between;
@@ -113,7 +113,6 @@
     font-size: 20px;
     text-align: center;
     margin-bottom: 15px;
-
 }
 
 .plans-description {
@@ -121,7 +120,7 @@
     text-align: center;
 }
 
-/* Watch Section */
+/* Watch Section Start */
 
 
 .watch-section {
@@ -202,3 +201,5 @@
     background-color: #005FAC;
     
 }
+
+/* Every Think Has Finished */
